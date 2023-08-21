@@ -1,0 +1,2 @@
+# potato_rice_config
+SpringCloud项目配置中心
